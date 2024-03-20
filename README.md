@@ -1,8 +1,13 @@
-# [CHEM 324 Programming Tutorials](https://j-hayes.github.io/chem-324-programming-tutorials/README.html)
+# [Julia For R users](https://j-hayes.github.io/julia-four-r-users/README.html)
 
-This is a companion site for CHEM 324 course at Iowa State University with tutorials on the basics of programming and how to use it for scientific and mathematical purposes. 
+This is a companion site for the Julia for R tutorial series put on by the Statistics department at Iowa State University 
 
-The table of contents can be found on the left sidebar and has the various modules and exercises. 
+Authors: 
+
+Jackson Hayes 
+Ben Jacobs
+
+Much of the content is a modified version of the  introduction to programming tutorial for the Iowa State Chemistry Introduction to Quantum Chemistry Course [CHEM 324](https://j-hayes.github.io/chem-324-programming-tutorials/README.html)
 
 
 
